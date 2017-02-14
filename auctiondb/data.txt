@@ -1,0 +1,5 @@
+A0001       Chair       Ramesh        410
+B0012       Table       Manish        1011
+A0001       Chair       Pankaj        520
+A0002       Chair       Suresh        1203
+C0021       Bedsheet    Manish        600
